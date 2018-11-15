@@ -1,0 +1,266 @@
+TMRCQuickLook
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/main.o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GeneratePreviewForURL.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCImage.o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/MRCImage.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/MacOS/MRCQuickLook normal x86_64
+cTouch /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator
+cPBXCp Build/Products/Debug/MRCQuickLook.qlgenerator /Users/thrabe/Library/QuickLook/MRCQuickLook.qlgenerator
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051070B2A00000000000000AA
+t1359416106
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000505A535A000000000024BED4
+t1348096858
+s2408148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000505A535B00000000000025C8
+t1348096859
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPlugInCOM.h
+c00000000505A535B0000000000000E87
+t1348096859
+s3719
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000505A535B0000000000000B8F
+t1348096859
+s2959
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c00000000505A535B0000000000000421
+t1348096859
+s1057
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505A535B00000000000C39B8
+t1348096859
+s801208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
+c00000000505A535C000000000000018D
+t1348096860
+s397
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000500B62FA000000000000BAA0
+t1342923514
+s47776
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000050592A680000000000654D60
+t1348020840
+s6638944
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000500B6300000000000000D4F0
+t1342923520
+s54512
+
+N/System/Library/Frameworks/QuickLook.framework/QuickLook
+c0000000050592975000000000011DB80
+t1348020597
+s1170304
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
+t2
+s0
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
+t2
+s0
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCImage.o
+t2
+s0
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCQuickLook.LinkFileList
+c000000005122E95F000000000000027C
+t1361242463
+s636
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator
+t2
+s0
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Info.plist
+t2
+s0
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/MacOS/MRCQuickLook
+t2
+s0
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/English.lproj/InfoPlist.strings
+c000000004CE4334D000000000000019A
+t1290023757
+s410
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GeneratePreviewForURL.m
+c000000004CE4409B0000000000000648
+t1290027163
+s1608
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m
+c000000004CE4334C000000000000034B
+t1290023756
+s843
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/MRCImage.m
+c000000004FCFD1260000000000001670
+t1339019558
+s5744
+
+N/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/main.c
+c000000004CE4334D000000000000249C
+t1290023757
+s9372
+i<CoreFoundation/CoreFoundation.h>
+i<CoreFoundation/CFPlugInCOM.h>
+i<CoreServices/CoreServices.h>
+i<QuickLook/QuickLook.h>
+
+N/Users/thrabe/Library/QuickLook/MRCQuickLook.qlgenerator
+t2
+s0
+
+NInfo.plist
+c000000004CE43C24000000000000079C
+t1290026020
+s1948
+
+CBuild AST from /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GeneratePreviewForURL.m
+r0
+
+CBuild AST from /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m
+r0
+
+CBuild AST from /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/MRCImage.m
+r0
+
+CBuild AST from /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa59e3ddf20d3b641^2cd442df20d3b641^---0#1#0#--18"Check dependencies36"40EF946E-A22D-4828-BE5C-4C3E8639B09A-
+
+CCompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GeneratePreviewForURL.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382935263.293946
+e382935263.642600
+r1
+xCompileC
+xBuild/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
+x/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GeneratePreviewForURL.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GeneratePreviewForURL.md3674bdf20d3b641^8081a4df20d3b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GeneratePreviewForURL.m0000000000000000^2824"CompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o GeneratePreviewForURL.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/MRCQuickLook.hmap -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/DerivedSources/x86_64 -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/DerivedSources -F/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug -MMD -MT dependencies -MF /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.d --serialize-diagnostics /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.dia -c /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GeneratePreviewForURL.m -o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o36"7E75F50C-D3FB-4AED-9753-8629BF8D4400-
+
+CCompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382935263.294044
+e382935263.597960
+r1
+xCompileC
+xBuild/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
+x/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m:13:6: warning: To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c [-W#warnings]
+o    #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c
+o     ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.ma4724bdf20d3b641^ba1299df20d3b641^-372"/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m:13:6: warning: To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c [-W#warnings]    #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c     ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@109"To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c-382935263#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@97"file://localhost/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m0000000000000000^12#5#12#5#580#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m0000000000000000^2836"CompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o GenerateThumbnailForURL.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/MRCQuickLook.hmap -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/DerivedSources/x86_64 -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/DerivedSources -F/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug -MMD -MT dependencies -MF /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.d --serialize-diagnostics /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.dia -c /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/GenerateThumbnailForURL.m -o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o36"801F607B-416A-4189-B46A-0129BC9C76C8-
+
+CCompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCImage.o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/MRCImage.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382935263.293997
+e382935263.659747
+r1
+xCompileC
+xBuild/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCImage.o
+x/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/MRCImage.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/MRCImage.mb66a4bdf20d3b641^ebe4a8df20d3b641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/MRCImage.m0000000000000000^2746"CompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCImage.o MRCImage.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/MRCQuickLook.hmap -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/DerivedSources/x86_64 -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/DerivedSources -F/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug -MMD -MT dependencies -MF /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCImage.d --serialize-diagnostics /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCImage.dia -c /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/MRCImage.m -o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCImage.o36"CDA516E6-68E2-4470-ADC7-642EC015A20E-
+
+CCompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/main.o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s382935263.293937
+e382935263.585408
+r1
+xCompileC
+xBuild/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/main.o
+x/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/main.c99654bdf20d3b641^a5dc95df20d3b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/main.c0000000000000000^2539"CompileC Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/main.o main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-sign-conversion -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/MRCQuickLook.hmap -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/DerivedSources/x86_64 -I/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/DerivedSources -F/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug -MMD -MT dependencies -MF /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/main.dia -c /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/main.c -o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/main.o36"47529A1F-AF68-47F0-AAD8-475DEDA381B3-
+
+CCopyStringsFile /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s382935263.282274
+e382935263.285314
+r1
+xCopyStringsFile
+x/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.stringsa85548df20d3b641^780a49df20d3b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/English.lproj/InfoPlist.strings0000000000000000^469"CopyStringsFile Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"EE16679D-2E67-49C2-9336-E7A83CFEDADD-
+
+CLd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/MacOS/MRCQuickLook normal x86_64
+s382935263.666174
+e382935263.705556
+r1
+xLd
+x/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/MacOS/MRCQuickLook
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/MacOS/MRCQuickLookae9baadf20d3b641^a59fb4df20d3b641^---0#0#0#--1096"Ld Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/MacOS/MRCQuickLook normal x86_64    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug -F/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug -filelist /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Intermediates/MRCQuickLook.build/Debug/MRCQuickLook.build/Objects-normal/x86_64/MRCQuickLook.LinkFileList -mmacosx-version-min=10.7 -fobjc-link-runtime -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework AppKit -framework Cocoa -framework Foundation -o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/MacOS/MRCQuickLook36"2B272B3A-E968-482E-B809-C097EF5FCBD9-
+
+CPBXCp Build/Products/Debug/MRCQuickLook.qlgenerator /Users/thrabe/Library/QuickLook/MRCQuickLook.qlgenerator
+s382935263.732753
+e382935263.740627
+r1
+xPBXCp
+xBuild/Products/Debug/MRCQuickLook.qlgenerator
+x/Users/thrabe/Library/QuickLook/MRCQuickLook.qlgenerator
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy /Users/thrabe/Library/QuickLook/MRCQuickLook.qlgeneratorc9afbbdf20d3b641^7899bddf20d3b641^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/thrabe/Library/QuickLook/MRCQuickLook.qlgenerator000000000080d041^418"PBXCp Build/Products/Debug/MRCQuickLook.qlgenerator /Users/thrabe/Library/QuickLook/MRCQuickLook.qlgenerator    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator /Users/thrabe/Library/QuickLook36"13DFE0D0-03F1-46DE-9EE7-69D74083DBBC-
+
+CProcessInfoPlistFile /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Info.plist Info.plist
+s382935263.271062
+e382935263.274434
+r1
+xProcessInfoPlistFile
+x/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist98a145df20d3b641^624846df20d3b641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Info.plist0000000000000000^364"ProcessInfoPlistFile Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Info.plist Info.plist    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator/Contents/Info.plist36"D7E0FA8E-440B-49B0-A4F8-FA35C16F024E-
+
+CTouch /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator
+s382935263.713808
+e382935263.719297
+r1
+xTouch
+x/Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Touch /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator8cd9b6df20d3b641^0b24b8df20d3b641^---0#0#0#--239"Touch Build/Products/Debug/MRCQuickLook.qlgenerator    cd /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook    /usr/bin/touch -c /Users/thrabe/Documents/xcode/Quicklook4EM/MRCQuickLook/Build/Products/Debug/MRCQuickLook.qlgenerator36"D2EE9960-CB55-4E43-9D76-ADBD664D2AD0-
+

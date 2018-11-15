@@ -1,0 +1,403 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E9918A7E12568A1A0079DD06 /* qlmanage */;
+		activeTarget = 8D57630D048677EA00EA77CD /* EMQuickLook */;
+		addToTargets = (
+			8D57630D048677EA00EA77CD /* EMQuickLook */,
+		);
+		breakpoints = (
+			E9041E55129461F200885FE5 /* GeneratePreviewForURL.m:13 */,
+		);
+		codeSenseManager = E9918A72125683A40079DD06 /* Code sense */;
+		executables = (
+			E9918A7E12568A1A0079DD06 /* qlmanage */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					529.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					543,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					669,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					680,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313357163;
+			PBXWorkspaceStateSaveDate = 313357163;
+		};
+		perUserProjectItems = {
+			E9041E5B1294635F00885FE5 /* PBXTextBookmark */ = E9041E5B1294635F00885FE5 /* PBXTextBookmark */;
+			E9041F8A1294733100885FE5 /* PBXTextBookmark */ = E9041F8A1294733100885FE5 /* PBXTextBookmark */;
+			E9041F8C1294733100885FE5 /* PBXTextBookmark */ = E9041F8C1294733100885FE5 /* PBXTextBookmark */;
+			E9041FEC12947B9B00885FE5 /* PBXTextBookmark */ = E9041FEC12947B9B00885FE5 /* PBXTextBookmark */;
+			E90C2BE8129502830062EB1C /* PlistBookmark */ = E90C2BE8129502830062EB1C /* PlistBookmark */;
+			E937EB6712AD928E001E495D /* PBXTextBookmark */ = E937EB6712AD928E001E495D /* PBXTextBookmark */;
+			E937EB6812AD928E001E495D /* PBXTextBookmark */ = E937EB6812AD928E001E495D /* PBXTextBookmark */;
+			E937EB6912AD928E001E495D /* PBXTextBookmark */ = E937EB6912AD928E001E495D /* PBXTextBookmark */;
+			E96A4C27128C87EF00877979 /* PBXBookmark */ = E96A4C27128C87EF00877979 /* PBXBookmark */;
+			E9918AC612568C260079DD06 /* PBXTextBookmark */ = E9918AC612568C260079DD06 /* PBXTextBookmark */;
+			E9A57C8312761D0F000BAB02 /* PlistBookmark */ = E9A57C8312761D0F000BAB02 /* PlistBookmark */;
+		};
+		sourceControlManager = E9918A71125683A40079DD06 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 232}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 203}";
+			sepNavWindowFrame = "{{38, 377}, {1188, 599}}";
+		};
+	};
+	08FB77B6FE84183AC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {893, 3003}}";
+			sepNavSelRange = "{4154, 16}";
+			sepNavVisRange = "{3846, 799}";
+		};
+	};
+	2C05A19B06CAA52B00D84F6F /* GeneratePreviewForURL.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1041, 832}}";
+			sepNavSelRange = "{1217, 23}";
+			sepNavVisRange = "{950, 656}";
+			sepNavWindowFrame = "{{25, 56}, {1188, 599}}";
+		};
+	};
+	61E3BCFA0870B4F2002186A0 /* GenerateThumbnailForURL.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1195, 471}}";
+			sepNavSelRange = "{574, 0}";
+			sepNavVisRange = "{0, 845}";
+			sepNavWindowFrame = "{{61, 356}, {1188, 599}}";
+		};
+	};
+	8D57630D048677EA00EA77CD /* EMQuickLook */ = {
+		activeExec = 0;
+	};
+	8D576317048677EA00EA77CD /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {893, 949}}";
+			sepNavSelRange = "{449, 0}";
+			sepNavVisRange = "{324, 368}";
+			sepNavVisRect = "{{0, 76}, {847, 578}}";
+			sepNavWindowFrame = "{{35, 313}, {1188, 599}}";
+		};
+	};
+	E9041E55129461F200885FE5 /* GeneratePreviewForURL.m:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2C05A19B06CAA52B00D84F6F /* GeneratePreviewForURL.m */;
+		functionName = "GeneratePreviewForURL()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 13;
+		location = EMQuickLook;
+		modificationTime = 311720707.988698;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	E9041E5B1294635F00885FE5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61E3BCFA0870B4F2002186A0 /* GenerateThumbnailForURL.m */;
+		name = "GenerateThumbnailForURL.m: 12";
+		rLen = 0;
+		rLoc = 574;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 0;
+	};
+	E9041F8A1294733100885FE5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 0;
+	};
+	E9041F8C1294733100885FE5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E9138ACB1274BEF900EE18A9 /* EMImage.h */;
+		name = "EMImage.h: 11";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 695;
+		vrLoc = 72;
+	};
+	E9041FEC12947B9B00885FE5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C05A19B06CAA52B00D84F6F /* GeneratePreviewForURL.m */;
+		name = "GeneratePreviewForURL.m: 12";
+		rLen = 0;
+		rLoc = 431;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	E90C2BE8129502830062EB1C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D576317048677EA00EA77CD /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/thomas/Dropbox/projects/EMQuickLook/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E9138ACB1274BEF900EE18A9 /* EMImage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 585}}";
+			sepNavSelRange = "{234, 0}";
+			sepNavVisRange = "{72, 695}";
+		};
+	};
+	E9138ACC1274BEF900EE18A9 /* EMImage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {893, 4121}}";
+			sepNavSelRange = "{6057, 0}";
+			sepNavVisRange = "{5906, 448}";
+			sepNavWindowFrame = "{{29, 403}, {1188, 599}}";
+		};
+	};
+	E937EB6712AD928E001E495D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E9138ACC1274BEF900EE18A9 /* EMImage.m */;
+		name = "EMImage.m: 224";
+		rLen = 0;
+		rLoc = 6057;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 5906;
+	};
+	E937EB6812AD928E001E495D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB77B6FE84183AC02AAC07 /* main.c */;
+		name = "main.c: 100";
+		rLen = 16;
+		rLoc = 4154;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 3846;
+	};
+	E937EB6912AD928E001E495D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2C05A19B06CAA52B00D84F6F /* GeneratePreviewForURL.m */;
+		name = "GeneratePreviewForURL.m: 45";
+		rLen = 23;
+		rLoc = 1217;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 950;
+	};
+	E95BA0CF1275F6DD0030113C /* Info.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist;
+		name = Info.plist;
+		path = /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist;
+		sourceTree = "<absolute>";
+	};
+	E96A4C27128C87EF00877979 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E96A4C22128C85B300877979 /* EM.icns */;
+	};
+	E9918A71125683A40079DD06 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E9918A72125683A40079DD06 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E9918A7E12568A1A0079DD06 /* qlmanage */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			"-p /Users/thomas/Dropbox/projects/FILES/test2.em ",
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = E9918A7F12568A1B0079DD06 /* qlmanage */;
+		libgmallocEnabled = 0;
+		name = qlmanage;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+		variableFormatDictionary = {
+		};
+	};
+	E9918A7F12568A1B0079DD06 /* qlmanage */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = "compiled.mach-o.executable";
+		name = qlmanage;
+		path = /usr/bin/qlmanage;
+		sourceTree = "<absolute>";
+	};
+	E9918AB912568BB10079DD06 /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	E9918AC612568C260079DD06 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E9918AB912568BB10079DD06 /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 180";
+		rLen = 0;
+		rLoc = 6179;
+		rType = 0;
+		vrLen = 1614;
+		vrLoc = 5482;
+	};
+	E9A57C8312761D0F000BAB02 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = E95BA0CF1275F6DD0030113C /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			QLNeedsToBeRunInMainThread,
+		);
+		name = /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
