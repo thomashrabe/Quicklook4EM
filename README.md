@@ -8,6 +8,7 @@ These plugins all you to quickly inspect three types of EM file formats:
 
 # Requirements
 Mac with installed XCode
+
 Git
 
 
