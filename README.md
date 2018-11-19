@@ -6,5 +6,9 @@ These plugins all you to quickly inspect three types of EM file formats:
 - MRC
 - CCP4
 
+# Requirements
+Mac with installed XCode
+Git
+
 
 
