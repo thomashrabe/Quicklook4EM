@@ -6,6 +6,9 @@ These plugins all you to quickly inspect three types of EM file formats:
 - MRC
 - CCP4
 
+# Functionality
+The plugins load each file seperately from disk. Take care when running the plugins over a networked filesystem since that might significantly slow down your user experience when viewing large files. For tomorgrams, only the central slize will be used for display. 
+
 # Requirements
 Mac with installed XCode
 
