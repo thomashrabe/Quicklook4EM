@@ -22,3 +22,6 @@ Simply clone the repository and run **Archive** in the XCode -> Product menu. Th
 
 # Installing
 Move the built files `(*qlgenerator)` to `~/Library/QuickLook`. For activating the features you have to reboot / log out and log back in to your OSX session or type `qlmanage -r` in the terminal. You can as well place the files into `/Library/Quiclook` but that requires administrator rigths to that machine.
+
+# License
+Released under GNU GPLv3
