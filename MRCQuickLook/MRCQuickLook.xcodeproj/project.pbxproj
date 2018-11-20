@@ -27,7 +27,7 @@
 		E9041EF012946B8300885FE5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = "~/Library/QuickLook";
+			dstPath = $HOME/Library/QuickLook;
 			dstSubfolderSpec = 0;
 			files = (
 				E9041FA31294754400885FE5 /* MRCQuickLook.qlgenerator in CopyFiles */,

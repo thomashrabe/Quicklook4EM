@@ -26,8 +26,8 @@
 /* Begin PBXCopyFilesBuildPhase section */
 		E9CE88B51295A9FB00875D30 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "~/Library/QuickLook";
+			buildActionMask = 8;
+			dstPath = $HOME/Library/QuickLook;
 			dstSubfolderSpec = 0;
 			files = (
 				E9CE889C1295A9D000875D30 /* CCP4QuickLook.qlgenerator in CopyFiles */,
