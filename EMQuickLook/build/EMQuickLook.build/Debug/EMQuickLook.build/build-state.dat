@@ -1,656 +1,0 @@
-TEMQuickLook
-v7
-r0
-t311718526.448325
-cCheck dependencies
-cProcessInfoPlistFile /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist Info.plist
-cCopyStringsFile /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cCpResource build/Debug/EMQuickLook.qlgenerator/Contents/Resources/EM.icns EM.icns
-cCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/main.o /Users/thomas/Dropbox/projects/EMQuickLook/main.c normal x86_64 c com.apple.compilers.gcc.4_2
-cCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImage.o /Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook normal x86_64
-cTouch /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator
-cPBXCp /Users/thomas/Library/QuickLook/EMQuickLook.qlgenerator build/Debug/EMQuickLook.qlgenerator
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004B99A23900000000000000EE
-t1268359737
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-c000000004B99A232000000000025262C
-t1268359730
-s2434604
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
-c000000004AC3F2CB0000000000000477
-t1254355659
-s1143
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004B99A2330000000000003430
-t1268359731
-s13360
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPlugInCOM.h
-c000000004B569ADA0000000000000E87
-t1263966938
-s3719
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
-c000000004B569ADA0000000000000AF4
-t1263966938
-s2804
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
-c000000004AC3C6120000000000000401
-t1254344210
-s1025
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B99A23300000000000C7160
-t1268359731
-s815456
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B447F4E00000000000013E6
-t1262780238
-s5094
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
-c000000004B448EF30000000000000165
-t1262784243
-s357
-
-N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-c000000004A12050E0000000000022140
-t1242694926
-s139584
-
-N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c000000004CD606A40000000000781330
-t1289094820
-s7869232
-
-N/System/Library/Frameworks/CoreServices.framework/CoreServices
-c000000004C23F49F0000000000021710
-t1277424799
-s136976
-
-N/System/Library/Frameworks/QuickLook.framework/QuickLook
-c000000004C917E25000000000012F0D0
-t1284603429
-s1241296
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/EM.icns
-c000000004CDC4DE1000000000002B527
-t1289506273
-s177447
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/EMData.h
-c000000004BE3F0DA000000000000056C
-t1273229530
-s1388
-i<Cocoa/Cocoa.h>
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/EMData.m
-c000000004C2E032F00000000000018A4
-t1278083887
-s6308
-i"EMData.h"
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/EMImage.h
-c000000004CC0A6BB000000000000056D
-t1287694011
-s1389
-i<ApplicationServices/ApplicationServices.h>
-i<Foundation/Foundation.h>
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/EMImage.m
-c000000004CD9AE32000000000000216C
-t1289334322
-s8556
-i"EMImage.h"
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/English.lproj/InfoPlist.strings
-c000000004CA64C060000000000000198
-t1285966854
-s408
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m
-c000000004CE439060000000000000646
-t1290025222
-s1606
-i<CoreFoundation/CoreFoundation.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-i"EMImage.h"
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m
-c000000004CA65A00000000000000034D
-t1285970432
-s845
-i<CoreFoundation/CoreFoundation.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator
-t1286204733
-s102
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist
-t1288440601
-s1870
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook
-t1290025223
-s23288
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/EM.icns
-t1290021400
-s177447
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
-t1285968926
-s408
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMData.o
-t1285968929
-s29004
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImage.o
-t1289334323
-s27572
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMQuickLook.LinkFileList
-c000000004CE42A180000000000000207
-t1290021400
-s519
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
-t1290025223
-s11464
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
-t1288028451
-s6708
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/main.o
-t1288028451
-s12376
-
-N/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/main.c
-c000000004CA64C06000000000000249C
-t1285966854
-s9372
-i<CoreFoundation/CoreFoundation.h>
-i<CoreFoundation/CFPlugInCOM.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-
-N/Users/hrabe/Library/QuickLook/EMQuickLook.qlgenerator
-t1286204733
-s102
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/EM.icns
-c000000004CDC4DE1000000000002B527
-t1289506273
-s177447
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/EMData.h
-c000000004BE3F0DA000000000000056C
-t1273229530
-s1388
-i<Cocoa/Cocoa.h>
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m
-c000000004C2E032F00000000000018A4
-t1278083887
-s6308
-i"EMData.h"
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.h
-c000000004CE42BDD000000000000056D
-t1290021853
-s1389
-i<ApplicationServices/ApplicationServices.h>
-i<Foundation/Foundation.h>
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m
-c000000004CD9AE46000000000000216C
-t1289334342
-s8556
-i"EMImage.h"
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/EMImageRep.h
-c000000004BE2B44C000000000000046D
-t1273148492
-s1133
-i<Cocoa/Cocoa.h>
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/EMImageRep.m
-c000000004BE310F40000000000000A4C
-t1273172212
-s2636
-i"EMImageRep.h"
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/English.lproj/InfoPlist.strings
-c000000004CA64C060000000000000198
-t1285966854
-s408
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.c
-c000000004CA654390000000000000313
-t1285968953
-s787
-i<CoreFoundation/CoreFoundation.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m
-c000000004CE439060000000000000646
-t1290025222
-s1606
-i<CoreFoundation/CoreFoundation.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-i"EMImage.h"
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c
-c000000004CA64C06000000000000034B
-t1285966854
-s843
-i<CoreFoundation/CoreFoundation.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m
-c000000004CA65A00000000000000034D
-t1285970432
-s845
-i<CoreFoundation/CoreFoundation.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.h
-c000000004CD9A8900000000000000C1B
-t1289332880
-s3099
-i<ApplicationServices/ApplicationServices.h>
-i<Foundation/Foundation.h>
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m
-c000000004CCC584100000000000000BD
-t1288460353
-s189
-i"MRCImage.h"
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator
-t1290025223
-s102
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist
-t1288440601
-s1870
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook
-t1290025223
-s23288
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/EM.icns
-t1290021400
-s177447
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
-t1288440601
-s408
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMData.o
-t1285968929
-s29004
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImage.o
-t1290025212
-s27572
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImageRep.o
-t2
-s0
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMQuickLook.LinkFileList
-c000000004CE42A180000000000000207
-t1290021400
-s519
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
-t1290025223
-s11464
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
-t1288028451
-s6708
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/MRCImage.o
-t1289333863
-s5352
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/main.o
-t1288028451
-s12376
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/StaticAnalyzer/normal/x86_64/EMImage.plist
-t1288439467
-s31790
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/StaticAnalyzer/normal/x86_64/GeneratePreviewForURL.plist
-t1288439466
-s275
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/StaticAnalyzer/normal/x86_64/GenerateThumbnailForURL.plist
-t1288439467
-s275
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/StaticAnalyzer/normal/x86_64/main.plist
-t1288439466
-s275
-
-N/Users/thomas/Dropbox/projects/EMQuickLook/main.c
-c000000004CA64C06000000000000249C
-t1285966854
-s9372
-i<CoreFoundation/CoreFoundation.h>
-i<CoreFoundation/CFPlugInCOM.h>
-i<CoreServices/CoreServices.h>
-i<QuickLook/QuickLook.h>
-
-N/Users/thomas/Library/QuickLook/EMQuickLook.qlgenerator
-t1290025226
-s102
-
-NInfo.plist
-c000000004CA657F40000000000000798
-t1285969908
-s1944
-
-CAnalyze /Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m
-s310132267.059450
-e310132267.644175
-r1
-xAnalyze
-x/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m
-o/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m:23:21: warning: Potential leak of an object allocated on line 23 and stored into 'emImage'
-o         EMImage* emImage = [[EMImage alloc] initFromData:fileData];
-o                            ^
-o/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m:52:12: warning: Potential leak of an object allocated on line 52
-o                                                                                         CGColorSpaceCreateDeviceGray(),
-o                                                                                         ^
-o/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m:46:35: warning: Potential leak of an object allocated on line 46 and stored into 'providerRef'
-o                 CGDataProviderRef providerRef = CGDataProviderCreateWithData(NULL, (const void*) bitmapData,
-o                                                 ^
-o3 diagnostics generated.
-lSLF07#2@60"Analyze /Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310132267#310132267#0(907"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m:23:21: warning: Potential leak of an object allocated on line 23 and stored into 'emImage'         EMImage* emImage = [[EMImage alloc] initFromData:fileData];                            ^/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m:52:12: warning: Potential leak of an object allocated on line 52                                                                                         CGColorSpaceCreateDeviceGray(),                                                                                         ^/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m:46:35: warning: Potential leak of an object allocated on line 46 and stored into 'providerRef'                 CGDataProviderRef providerRef = CGDataProviderCreateWithData(NULL, (const void*) bitmapData,                                                 ^3 diagnostics generated.3(0@74"Potential leak of an object allocated on line 23 and stored into 'emImage'310132267#18446744073709551615#0#6(17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#21#2#21#2#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#23#2#23#2#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#23#2#23#2#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#23#21#23#59#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#23#21#0#0#0"1(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#23#21#23#59#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#23#21#23#59#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#25#2#25#7#21@92"Object returned to caller as an owning reference (single retain count transferred to caller)310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#25#2#0#0#0"2(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#25#2#25#15#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#25#9#25#15#92"Object returned to caller as an owning reference (single retain count transferred to caller)21@283"Object allocated on line 23 and stored into 'emImage' is returned from a method whose name ('EMDataFromFile:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#25#2#0#0#0"1(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#25#2#25#7#283"Object allocated on line 23 and stored into 'emImage' is returned from a method whose name ('EMDataFromFile:') does not contain 'copy' or otherwise starts with 'new' or 'alloc'.  This violates the naming convention rules given in the Memory Management Guide for Cocoa (object leaked)6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#25#2#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0@48"Potential leak of an object allocated on line 52310132267#18446744073709551615#0#13(17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#29#2#29#2#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#30#3#30#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#30#3#30#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#3#36#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#3#36#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#6#36#6#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#6#36#6#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#41#36#41#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#41#36#41#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#76#36#76#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#76#36#76#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#42#3#42#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#42#3#42#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#49#3#49#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#49#3#49#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#52#12#52#41#21@122"Call to function 'CGColorSpaceCreateDeviceGray' returns a Core Foundation object with a +1 retain count (owning reference)310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#52#12#0#0#0"1(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#52#12#52#41#122"Call to function 'CGColorSpaceCreateDeviceGray' returns a Core Foundation object with a +1 retain count (owning reference)17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#52#12#52#41#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#60#3#60#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#60#3#60#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#65#2#65#2#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#65#2#65#2#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#66#1#66#1#21@113"Object allocated on line 52 is no longer referenced after this point and has a retain count of +1 (object leaked)310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#66#1#0#0#0"1(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#66#1#66#1#113"Object allocated on line 52 is no longer referenced after this point and has a retain count of +1 (object leaked)6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#66#1#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0@78"Potential leak of an object allocated on line 46 and stored into 'providerRef'310132267#18446744073709551615#0#11(17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#29#2#29#2#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#30#3#30#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#30#3#30#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#3#36#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#3#36#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#6#36#6#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#6#36#6#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#41#36#41#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#41#36#41#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#76#36#76#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#36#76#36#76#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#42#3#42#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#42#3#42#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#46#3#46#3#17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#46#3#46#3#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#46#35#47#39#21@122"Call to function 'CGDataProviderCreateWithData' returns a Core Foundation object with a +1 retain count (owning reference)310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#46#35#0#0#0"1(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#46#35#47#39#122"Call to function 'CGDataProviderCreateWithData' returns a Core Foundation object with a +1 retain count (owning reference)17@0"310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#0"0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#0#0#0#0#1(3@6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#46#35#47#39#6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#60#7#60#10#21@143"Object allocated on line 46 and stored into 'providerRef' is no longer referenced after this point and has a retain count of +1 (object leaked)310132267#18446744073709551615#0#0(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#60#7#0#0#0"1(6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#60#7#60#10#143"Object allocated on line 46 and stored into 'providerRef' is no longer referenced after this point and has a retain count of +1 (object leaked)6@52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m310131869#60#7#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m4300911832#1044"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources --analyze /Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/StaticAnalyzer/normal/x86_64/EMImage.plist0#
-
-CAnalyze /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m
-s310132266.447061
-e310132267.059354
-r1
-xAnalyze
-x/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m
-lSLF07#2@74"Analyze /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m310132266#310132267#0(0"0(0#0#66"/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m4300911832#1072"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources --analyze /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/StaticAnalyzer/normal/x86_64/GeneratePreviewForURL.plist0#
-
-CAnalyze /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m
-s310132266.834694
-e310132267.345584
-r1
-xAnalyze
-x/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m
-o/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m:13:6: warning: #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c [-W#warnings]
-o     #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c
-o      ^
-o1 diagnostic generated.
-lSLF07#2@76"Analyze /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m310132266#310132267#0(373"/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m:13:6: warning: #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c [-W#warnings]     #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c      ^1 diagnostic generated.0(0#0#68"/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m4300911832#1076"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources --analyze /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/StaticAnalyzer/normal/x86_64/GenerateThumbnailForURL.plist0#
-
-CAnalyze /Users/thomas/Dropbox/projects/EMQuickLook/main.c
-s310132266.444992
-e310132266.834565
-r1
-xAnalyze
-x/Users/thomas/Dropbox/projects/EMQuickLook/main.c
-lSLF07#2@57"Analyze /Users/thomas/Dropbox/projects/EMQuickLook/main.c310132266#310132266#0(0"0(0#0#49"/Users/thomas/Dropbox/projects/EMQuickLook/main.c4300911832#1028"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources --analyze /Users/thomas/Dropbox/projects/EMQuickLook/main.c -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/StaticAnalyzer/normal/x86_64/main.plist0#
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies311718526#311718526#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMData.o /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/EMData.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMData.o /Users/thomas/Dropbox/projects/EMQuickLook/EMData.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s307661728.351670
-e307661729.700453
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMData.o
-x/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m: In function '-[EMData prepareDataForDisplay]':
-o/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m:73: warning: overflow in implicit constant conversion
-o/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m:74: warning: overflow in implicit constant conversion
-lSLF07#2@59"Compile /Users/thomas/Dropbox/projects/EMQuickLook/EMData.m307661728#307661730#0(312"/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m: In function '-[EMData prepareDataForDisplay]':/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m:73: warning: overflow in implicit constant conversion/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m:74: warning: overflow in implicit constant conversion2(22@40"Overflow in implicit constant conversion307661729#100#106#0(6@51"/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m299776687#73#0#73#0#0"0(22@40"Overflow in implicit constant conversion307661729#206#106#0(6@51"/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m299776687#74#0#74#0#0"0(0#0#51"/Users/thomas/Dropbox/projects/EMQuickLook/EMData.m4300911832#988"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/thomas/Dropbox/projects/EMQuickLook/EMData.m -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMData.o0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImage.o /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/EMImage.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImage.o /Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s311718011.356536
-e311718012.576478
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImage.o
-x/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@60"Compile /Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m311718011#311718012#0(0"0(0#0#52"/Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m4300911832#990"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/thomas/Dropbox/projects/EMQuickLook/EMImage.m -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImage.o0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMImageRep.o /Users/thomas/Dropbox/projects/EMQuickLook/EMImageRep.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s307897533.861029
-e307897533.861992
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
-x/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m307897533#307897533#0(0"0(0#0#75"/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m4300911832#1090"    cd /Users/hrabe/Documents/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug -I/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m -o /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.c normal x86_64 c com.apple.compilers.gcc.4_2
-s307661761.950849
-e307661761.961587
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
-x/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@74"Compile /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.c307661761#307661761#0(197"/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.c:14:6: warning: #warning To complete your generator please implement the function GeneratePreviewForURL in GeneratePreviewForURL.c1(22@114"#warning To complete your generator please implement the function GeneratePreviewForURL in GeneratePreviewForURL.c307661761#0#197#0(6@66"/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.c307661753#14#0#14#0#10"#warning *0(0#0#66"/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.c8386658438684291072#1008"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.c -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s311718023.246237
-e311718023.247223
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o
-x/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@74"Compile /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m311718023#311718023#0(0"0(0#0#66"/Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m4300911832#1018"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/thomas/Dropbox/projects/EMQuickLook/GeneratePreviewForURL.m -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GeneratePreviewForURL.o0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c normal x86_64 c com.apple.compilers.gcc.4_2
-s307661728.290344
-e307661729.187421
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
-x/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-o/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c:13:6: warning: #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c
-lSLF07#2@76"Compile /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c307661728#307661729#0(203"/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c:13:6: warning: #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c1(22@118"#warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c307661729#0#203#0(6@68"/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c307659654#13#0#13#0#10"#warning *0(0#0#68"/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c4300911832#1012"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.c -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s309721251.159089
-e309721251.730143
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o
-x/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m:13:6: warning: #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c
-lSLF07#2@76"Compile /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m309721251#309721251#0(203"/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m:13:6: warning: #warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c1(22@118"#warning To complete your generator please implement the function GenerateThumbnailForURL in GenerateThumbnailForURL.c309721251#0#203#0(6@68"/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m307663232#13#0#13#0#10"#warning *0(0#0#68"/Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m4300911832#1022"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/thomas/Dropbox/projects/EMQuickLook/GenerateThumbnailForURL.m -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/GenerateThumbnailForURL.o0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/MRCImage.o /Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s311026663.170408
-e311026663.963374
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/MRCImage.o
-x/Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m:14: warning: cannot find interface declaration for 'MRCImage'
-lSLF07#2@61"Compile /Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m311026663#311026663#0(116"/Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m:14: warning: cannot find interface declaration for 'MRCImage'1(22@48"Cannot find interface declaration for 'MRCImage'311026663#0#116#0(6@53"/Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m310153153#14#0#14#0#0"0(0#0#53"/Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m8386658438684291072#992"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/thomas/Dropbox/projects/EMQuickLook/MRCImage.m -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/MRCImage.o0#
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/main.o /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/main.c normal x86_64 c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/main.o /Users/thomas/Dropbox/projects/EMQuickLook/main.c normal x86_64 c com.apple.compilers.gcc.4_2
-s309721250.207779
-e309721251.158091
-r1
-xCompileC
-xbuild/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/main.o
-x/Users/thomas/Dropbox/projects/EMQuickLook/main.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/thomas/Dropbox/projects/EMQuickLook/main.c309721250#309721251#0(0"0(0#0#49"/Users/thomas/Dropbox/projects/EMQuickLook/main.c4300911832#974"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O2 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/EMQuickLook.hmap -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -I/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/include -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources/x86_64 -I/Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/DerivedSources -c /Users/thomas/Dropbox/projects/EMQuickLook/main.c -o /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/main.o0#
-
-CCopyStringsFile /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-r0
-
-CCopyStringsFile /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s310133401.315607
-e310133401.512987
-r1
-xCopyStringsFile
-x/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings310133401#310133401#0(0"0(0#0#74"/Users/thomas/Dropbox/projects/EMQuickLook/English.lproj/InfoPlist.strings4300911832#386"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources/English.lproj0#
-
-CCpResource build/Debug/EMQuickLook.qlgenerator/Contents/Resources/EM.icns EM.icns
-s311714200.583103
-e311714200.634216
-r1
-xCpResource
-xbuild/Debug/EMQuickLook.qlgenerator/Contents/Resources/EM.icns
-xEM.icns
-lSLF07#2@12"Copy EM.icns311714200#311714200#0(0"0(0#0#50"/Users/thomas/Dropbox/projects/EMQuickLook/EM.icns4300911832#347"    cd /Users/thomas/Dropbox/projects/EMQuickLook    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/thomas/Dropbox/projects/EMQuickLook/EM.icns /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Resources0#
-
-CLd /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook normal x86_64
-s307897533.862116
-e307897533.896403
-r1
-xLd
-x/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook
-xnormal
-xx86_64
-lSLF07#2@119"Link /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook307897533#307897533#0(0"0(0#0#0"4300911832#767"    cd /Users/hrabe/Documents/Dropbox/projects/EMQuickLook    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug -F/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug -filelist /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMQuickLook.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Cocoa -framework Foundation -o /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook0#
-
-CLd /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook normal x86_64
-s311718023.247446
-e311718023.348308
-r1
-xLd
-x/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook
-xnormal
-xx86_64
-lSLF07#2@110"Link /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook311718023#311718023#0(0"0(0#0#0"4300911832#740"    cd /Users/thomas/Dropbox/projects/EMQuickLook    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -F/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug -filelist /Users/thomas/Dropbox/projects/EMQuickLook/build/EMQuickLook.build/Debug/EMQuickLook.build/Objects-normal/x86_64/EMQuickLook.LinkFileList -mmacosx-version-min=10.6 -framework CoreFoundation -framework CoreServices -framework ApplicationServices -framework QuickLook -framework Cocoa -framework Foundation -framework AppKit -o /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/MacOS/EMQuickLook0#
-
-CPBXCp /Users/hrabe/Library/QuickLook/EMQuickLook.qlgenerator build/Debug/EMQuickLook.qlgenerator
-s307897533.899359
-e307897533.904977
-r1
-xPBXCp
-x/Users/hrabe/Library/QuickLook/EMQuickLook.qlgenerator
-xbuild/Debug/EMQuickLook.qlgenerator
-lSLF07#2@40"Copy build/Debug/EMQuickLook.qlgenerator307897533#307897533#0(0"0(0#0#87"/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator4300911832#326"    cd /Users/hrabe/Documents/Dropbox/projects/EMQuickLook    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator /Users/hrabe/Library/QuickLook0#
-
-CPBXCp /Users/thomas/Library/QuickLook/EMQuickLook.qlgenerator build/Debug/EMQuickLook.qlgenerator
-s311718026.131211
-e311718026.145728
-r1
-xPBXCp
-x/Users/thomas/Library/QuickLook/EMQuickLook.qlgenerator
-xbuild/Debug/EMQuickLook.qlgenerator
-lSLF07#2@40"Copy build/Debug/EMQuickLook.qlgenerator311718026#311718026#0(0"0(0#0#78"/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator4300911832#309"    cd /Users/thomas/Dropbox/projects/EMQuickLook    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator /Users/thomas/Library/QuickLook0#
-
-CProcessInfoPlistFile /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist Info.plist
-r0
-
-CProcessInfoPlistFile /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist Info.plist
-s310133401.308667
-e310133401.315506
-r1
-xProcessInfoPlistFile
-x/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist
-xInfo.plist
-lSLF07#2@18"Process Info.plist310133401#310133401#0(0"0(0#0#53"/Users/thomas/Dropbox/projects/EMQuickLook/Info.plist4300911832#230"    cd /Users/thomas/Dropbox/projects/EMQuickLook    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator/Contents/Info.plist0#
-
-CTouch /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator
-s307897533.896512
-e307897533.899298
-r1
-xTouch
-x/Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator
-lSLF07#2@93"Touch /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator307897533#307897533#0(0"0(0#0#0"4300911832#169"    cd /Users/hrabe/Documents/Dropbox/projects/EMQuickLook    /usr/bin/touch -c /Users/hrabe/Documents/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator0#
-
-CTouch /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator
-s311718023.348446
-e311718023.352529
-r1
-xTouch
-x/Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator
-lSLF07#2@84"Touch /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator311718023#311718023#0(0"0(0#0#0"4300911832#151"    cd /Users/thomas/Dropbox/projects/EMQuickLook    /usr/bin/touch -c /Users/thomas/Dropbox/projects/EMQuickLook/build/Debug/EMQuickLook.qlgenerator0#
-
